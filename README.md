@@ -13,6 +13,9 @@ Esercizio 1A
 
 Esercizio 1B   
  	- [Logo](https://tuana-aktas.github.io/gim/Esercizio_1B/index.html)   
+
+Esercizio 1C
+
   
  
  	
