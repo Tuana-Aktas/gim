@@ -2,10 +2,10 @@
 Corso di Grafica in Movimento 2025, SUPSI 
 
 Esercizio 1A  
-	- [acceso Spento 2](https://tuana-aktas.github.io/gim/esercizio_1A/acceso_spento_2.html)  
-	- [acceso Spento 3](https://tuana-aktas.github.io/gim/esercizio_1A/acceso_spento_3.html)   
-	- [aperto Chiuso 2](https://tuana-aktas.github.io/gim/esercizio_1A/aperto_chiuso_2.html)   
-	- [aperto Chiuso 3](https://tuana-aktas.github.io/gim/esercizio_1A/aperto_chiuso_3.html)   
+	- [acceso spento 2](https://tuana-aktas.github.io/gim/esercizio_1A/acceso_spento_2.html)  
+	- [acceso spento 3](https://tuana-aktas.github.io/gim/esercizio_1A/acceso_spento_3.html)   
+	- [aperto chiuso 2](https://tuana-aktas.github.io/gim/esercizio_1A/aperto_chiuso_2.html)   
+	- [aperto chiuso 3](https://tuana-aktas.github.io/gim/esercizio_1A/aperto_chiuso_3.html)   
 	- [rotazione 2](https://tuana-aktas.github.io/gim/esercizio_1A/rotazione_2.html)   
 	- [rotazione 3](https://tuana-aktas.github.io/gim/esercizio_1A/rotazione_3.html)   
 	- [spostamento 2](https://tuana-aktas.github.io/gim/esercizio_1A/spostamento_2.html)    
