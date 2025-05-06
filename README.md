@@ -18,9 +18,8 @@ Esercizio 1C
 	- [testo kleist](https://tuana-aktas.github.io/gim/Esercizio_1C/README.md)    
 
 
-Esercizio 2  
-
-     
+Esercizio 2   
+- [Parallasse](https://tuana-aktas.github.io/gim/Esercizio_2/index_interattivo.html)    
 
 
 Esercizio 3A   
