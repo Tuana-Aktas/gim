@@ -11,7 +11,7 @@ Esercizio 1A
 	- [spostamento 2](https://tuana-aktas.github.io/gim/esercizio_1A/spostamento_2.html)    
 	- [spostamento 3](https://tuana-aktas.github.io/gim/esercizio_1A/spostamento_3.html)
 
-Esercizio 1B
+Esercizio 1B   
  	- [Logo](https://tuana-aktas.github.io/gim/Esercizio_1B/index.html)   
   
  
