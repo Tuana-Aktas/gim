@@ -15,7 +15,15 @@ Esercizio 1B
  	- [logo](https://tuana-aktas.github.io/gim/Esercizio_1B/index.html)   
 
 Esercizio 1C   
-	- [testo kleist](https://tuana-aktas.github.io/gim/Esercizio_1C/README.md)
+	- [testo kleist](https://tuana-aktas.github.io/gim/Esercizio_1C/README.md)    
+
+
+Esercizio 2  
+
+
+Esercizio 3A   
+
+Esercizio 3B   
 
   
  
