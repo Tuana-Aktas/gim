@@ -9,7 +9,13 @@ Esercizio 1A
 	- [rotazione 2](https://tuana-aktas.github.io/gim/esercizio_1A/rotazione_2.html)   
 	- [rotazione 3](https://tuana-aktas.github.io/gim/esercizio_1A/rotazione_3.html)   
 	- [spostamento 2](https://tuana-aktas.github.io/gim/esercizio_1A/spostamento_2.html)    
-	- [spostamento 3](https://tuana-aktas.github.io/gim/esercizio_1A/spostamento_3.html)  
+	- [spostamento 3](https://tuana-aktas.github.io/gim/esercizio_1A/spostamento_3.html)
+
+Esercizio 1B
+ 
+ 	- [Logo](https://tuana-aktas.github.io/gim/Esercizio_1B/index.html)
+  
+ 
  	
 
 
