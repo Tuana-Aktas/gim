@@ -93,7 +93,7 @@ function draw() {
   // Disegna pallina
   fill(ballColor);
   noStroke();
-  ellipse(posX, posY, 25);
+  ellipse(posX, posY, 40);
 
   // Disegna paddle sinistro
   fill(255);
