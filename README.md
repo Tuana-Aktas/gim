@@ -23,7 +23,7 @@ Esercizio 2
 
 
 Esercizio 3A   
-        [Ping-Pong](https://tuana-aktas.github.io/gim/Pong_3A/.html)     
+        [Ping-Pong]()     
 	
 
 	
