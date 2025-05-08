@@ -23,7 +23,7 @@ Esercizio 2
 
 
 Esercizio 3A   
-         - [Ping-Pong](https://tuana-aktas.github.io/gim/Esercizio_3A/index.html)  
+         - [Ping-Pong](https://tuana-aktas.github.io/gim/Esercizio_3A_Ping_Pong/index.html)  
          - [Pioggia](https://tuana-aktas.github.io/gim/Pioggia_3A/index.html)    
 	 - [Neve]()
 
