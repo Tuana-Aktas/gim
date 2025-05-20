@@ -25,10 +25,10 @@ Esercizio 2
 Esercizio 3A   
          - [Ping-Pong](https://tuana-aktas.github.io/gim/Esercizio_3A_Ping_Pong/index.html)  
          - [Pioggia](https://tuana-aktas.github.io/gim/Esercizio_3A_Pioggia/Pioggia_3A/index.html)    
-	 - [Neve](https://tuana-aktas.github.io/gim/Esercizio_3A_Neve/index.html)
+	 - [Neve](https://tuana-aktas.github.io/gim/Esercizio_3A_Neve/index.html)     
 
-Esercizio 3B   
-
+Esercizio 3B      
+         - [Orologio]
   
  
  	
