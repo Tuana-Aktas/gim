@@ -20,6 +20,9 @@ Esercizio 1C
 
 Esercizio 2   
         - [Parallasse](https://tuana-aktas.github.io/gim/Esercizio_2/img/index_animato.html)    
+	- [Parallasse](https://tuana-aktas.github.io/gim/Esercizio_2/img/index_interattivo.html)
+ 
+ 
 
 
 Esercizio 3A   
