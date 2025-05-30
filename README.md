@@ -28,7 +28,8 @@ Esercizio 3A
 	 - [Neve](https://tuana-aktas.github.io/gim/Esercizio_3A_Neve/index.html)     
 
 Esercizio 3B      
-         - [Orologio]
+         - [Orologio](https://tuana-aktas.github.io/gim/Esercizio_3B/Orologio/index.html)
+	 
   
  
  	
